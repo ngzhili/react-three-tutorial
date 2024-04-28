@@ -2,11 +2,11 @@
   "name": "theatre-js",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ngzhili.github.io/threejs-tutorial",
+  "homepage": "https://ngzhili.github.io/threejs-tutorial/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
