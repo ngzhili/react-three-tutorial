@@ -2,7 +2,7 @@
   "name": "theatre-js",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ngzhili.github.io/threejs-tutorial/",
+  "homepage": "https://ngzhili.github.io/react-three-tutorial/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
